@@ -1,6 +1,6 @@
 ﻿namespace BluePeanuts.TurboStates;
 
-public sealed class StateController
+public sealed class StateController : IStateController
 {
     private IState? _currentState;
 
