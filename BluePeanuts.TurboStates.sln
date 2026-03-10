@@ -2,8 +2,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BluePeanuts.TurboStates", "BluePeanuts.TurboStates\BluePeanuts.TurboStates.csproj", "{94585E1B-8BC8-4987-89FF-F53B536271D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BluePeanuts.TurboStates.Tests", "BluePeanuts.TurboStates.Tests\BluePeanuts.TurboStates.Tests.csproj", "{B4BEB223-4F3C-4D64-AFD1-C2FFB289BA43}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -14,9 +12,5 @@ Global
 		{94585E1B-8BC8-4987-89FF-F53B536271D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94585E1B-8BC8-4987-89FF-F53B536271D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{94585E1B-8BC8-4987-89FF-F53B536271D1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B4BEB223-4F3C-4D64-AFD1-C2FFB289BA43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B4BEB223-4F3C-4D64-AFD1-C2FFB289BA43}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B4BEB223-4F3C-4D64-AFD1-C2FFB289BA43}.Release|Any CPU.ActiveCfg = Debug|Any CPU
-		{B4BEB223-4F3C-4D64-AFD1-C2FFB289BA43}.Release|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 EndGlobal
