@@ -10,7 +10,7 @@ public partial class StateControllerNode : Node
     {
     }
 
-    internal StateControllerNode(IStateController stateController)
+    public StateControllerNode(IStateController stateController)
     {
         _stateController = stateController;
     }

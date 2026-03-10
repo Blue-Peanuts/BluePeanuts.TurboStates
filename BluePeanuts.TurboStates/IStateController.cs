@@ -1,6 +1,6 @@
 namespace BluePeanuts.TurboStates;
 
-internal interface IStateController
+public interface IStateController
 {
     public void SetState(IState? state);
 

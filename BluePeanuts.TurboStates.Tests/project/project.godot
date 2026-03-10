@@ -1,0 +1,6 @@
+; project.godot
+config_version=5
+
+[application]
+config/name="BluePeanuts.TurboStates.Tests"
+run/main_scene="res://main.tscn"
