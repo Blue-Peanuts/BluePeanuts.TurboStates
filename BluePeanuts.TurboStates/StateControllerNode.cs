@@ -2,7 +2,7 @@ using Godot;
 
 namespace BluePeanuts.TurboStates;
 
-public sealed class StateControllerNode : Node
+public partial class StateControllerNode : Node
 {
     private readonly IStateController _stateController;
 
@@ -29,5 +29,5 @@ public sealed class StateControllerNode : Node
 
     public void SetState(IState? state) => _stateController.SetState(state);
 
-    public void EmptyState() => _stateController.EmptyState();
+    public void EmptyState() => SetState(null);
 }

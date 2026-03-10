@@ -1,6 +1,8 @@
-﻿namespace BluePeanuts.TurboStates;
+﻿using Godot;
 
-public sealed class StateController : IStateController
+namespace BluePeanuts.TurboStates;
+
+public class StateController : IStateController
 {
     private IState? _currentState;
 
