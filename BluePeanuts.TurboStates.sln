@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BluePeanuts.TurboStates", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BluePeanuts.TurboStates.Tests", "BluePeanuts.TurboStates.Tests\BluePeanuts.TurboStates.Tests.csproj", "{28009ECF-DFDB-4F24-B609-A37D2085118A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BluePeanuts.TurboStates.Fluent", "BluePeanuts.TurboStates.Fluent\BluePeanuts.TurboStates.Fluent.csproj", "{4526D026-704A-45F8-AD79-81B5369FBD56}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{28009ECF-DFDB-4F24-B609-A37D2085118A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28009ECF-DFDB-4F24-B609-A37D2085118A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28009ECF-DFDB-4F24-B609-A37D2085118A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4526D026-704A-45F8-AD79-81B5369FBD56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4526D026-704A-45F8-AD79-81B5369FBD56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4526D026-704A-45F8-AD79-81B5369FBD56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4526D026-704A-45F8-AD79-81B5369FBD56}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
