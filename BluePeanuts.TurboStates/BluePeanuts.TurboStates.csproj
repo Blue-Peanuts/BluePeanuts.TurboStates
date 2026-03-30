@@ -4,6 +4,9 @@
         <TargetFramework>net10.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <Title>Godot TurboStates</Title>
+        <Description>State handling solution for Godot</Description>
+        <RepositoryUrl>https://github.com/Blue-Peanuts/BluePeanuts.TurboStates</RepositoryUrl>
     </PropertyGroup>
 
     <ItemGroup>
